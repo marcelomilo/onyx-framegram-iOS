@@ -27,7 +27,7 @@ Setup
 ----------------------
 Install [mogenerator](https://github.com/rentzsch/mogenerator). This will regenerate the generated Core Data model files.
 
-Create `./OpenWatch/OWAPIKeys.h` with the following content:
+Create `./onyx-framegram-iOS/BOAPIKeys.h` with the following content:
 
 		#define TESTFLIGHT_APP_TOKEN @"your_testflight_token"
 		#define USERVOICE_API_KEY @"your_uservoice_api_key"
